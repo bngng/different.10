@@ -1,6 +1,6 @@
 // let pause = true;
 
-let dis  = 12;
+let dis  = 2;
 let reScale = 3;
 let d, d1, d2, d3;
 
